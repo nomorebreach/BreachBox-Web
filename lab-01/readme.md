@@ -110,23 +110,7 @@ Inside `app.py`, user input is rendered like this:
 ```
 <div onclick="alert(1337)">Click me</div>
 ```
-
----
-
-# 🏁 Flag (Optional for CTF Hosts)
-
-If you want to make this a proper CTF:
-
-```
-FLAG{basic_stored_xss}
-```
-
-You can hide it anywhere:
-- inside page source  
-- inside an alert  
-- behind a button that only becomes clickable via XSS  
-
----
+ 
 
 # 🛡️ Disclaimer
 
@@ -136,3 +120,4 @@ This app is **intentionally vulnerable** and must only be used for security lear
 ---
 
 Happy hacking! 🔥
+
