@@ -1,4 +1,5 @@
 # BreachBox-Web
+![ChatGPT Image Dec 26, 2025, 11_42_30 PM](https://github.com/user-attachments/assets/56b1dfc4-4c8f-4308-a317-df4c8789f807)
 
 **BreachBox-Web** is a curated collection of **self-contained, Dockerized vulnerable web applications** built for CTF training and hands-on security education.
 
